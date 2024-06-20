@@ -1,2 +1,2 @@
-# HCP-Vault-TF
-Configure HCP Vault using Terraform
+# Configure HCP Vault on AWS using Terraform and a Transit Gateway
+
